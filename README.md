@@ -22,11 +22,17 @@ Built for the **JuaraVibeCoding** competition by Google Developer Groups (May 20
 
 ## Live Demo
 
-[Link will be added here]
+[https://cekfakta-id-239890233573.asia-southeast1.run.app]
 
 ## About the Competition
 
 JuaraVibeCoding is a vibe coding event by Google Developer Groups Indonesia with the spirit of "Code Less, Build More", encouraging participants to build real applications using AI tools.
+
+## Achievement
+
+Recognized as Top 100 out of all submissions in JuaraVibeCoding by Google Developer Groups (May 2026).
+
+![Certificate](GDG.jpg)
 
 ## Author
 
