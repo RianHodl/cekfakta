@@ -32,7 +32,7 @@ JuaraVibeCoding is a vibe coding event by Google Developer Groups Indonesia with
 
 Recognized as Top 100 out of all submissions in JuaraVibeCoding by Google Developer Groups (May 2026).
 
-![Certificate](GDG.jpg)
+![Certificate](GDG.png)
 
 ## Author
 
