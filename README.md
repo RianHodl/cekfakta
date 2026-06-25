@@ -2,7 +2,7 @@
 
 An AI-powered hoax detection web app designed to help Indonesian users verify the credibility of news and information circulating online.
 
-Built for the **JuaraVibeCoding** competition by Google Developer Groups (May 2026) — recognized as **Top 100** out of all submissions.
+Built for the **JuaraVibeCoding** competition by Google Developer Groups (May 2026) - recognized as **Top 100** out of all submissions.
 
 ---
 
